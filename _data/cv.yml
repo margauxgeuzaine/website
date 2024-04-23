@@ -17,47 +17,24 @@
         - Description 2.
         - title: Multiple Timescale Spectral Analysis of Wave-Loaded Floating Structures
           contents:
-            - Wave Loads
-            - Decomposition
+            - Wave Response Decomposition
     - title: Master's Degree
       institution: University of Liège, Liège, Belgium
       year: 2018
       description:
-        - Description 1.
-        - Description 2.
+        - Magna Cum Lauda with Honors
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Francqui Postdoctoral Fellow of The Belgian American Educational Foundation
+      institution: NatHaz Modeling Laboratory, University of Notre Dame
+      year: 2022-2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Machine Learning for Classification of Time-Series
+        - title: Shapelet-Based Tool for Thunderstorms Detection
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+            - Accelerating and giving sense to the current framework 
 
 - title: Open Source Projects
   type: time_table
@@ -69,13 +46,12 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Francqui Recognition Award
+    - year: 2018
       items: 
-        - Max Planck Medal
+        - Best Master's Thesis Award
 
 - title: Academic Interests
   type: nested_list
