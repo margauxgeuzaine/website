@@ -1,11 +1,10 @@
 ---
 layout: page
 title: project 2
-description: a project with a background image and giscus comments
+description: a project with a background image
 img: assets/img/3.jpg
 importance: 2
-category: work
-giscus_comments: true
+category: Teaching assistant
 ---
 
 Every project has a beautiful feature showcase page.
@@ -46,7 +45,7 @@ To give your project a background in the portfolio page, just add the img tag to
 
 You can also put regular text between your rows of images.
 Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
 
 
 <div class="row justify-content-sm-center">
