@@ -9,13 +9,13 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: Ph.D.
       institution: University of Liège, Liège, Belgium
       year: 2022
+      title: Multiple Timescale Spectral Analysis of Wave-Loaded Floating Structures
       description:
         - Description 1.
         - Description 2.
-        - title: Multiple Timescale Spectral Analysis of Wave-Loaded Floating Structures
           contents:
             - Wave Response Decomposition
     - title: Master's Degree
@@ -27,21 +27,14 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Francqui Postdoctoral Fellow of The Belgian American Educational Foundation
-      institution: NatHaz Modeling Laboratory, University of Notre Dame
-      year: 2022-2023
+    - title: Francqui Postdoctoral Fellow of the Belgian American Educational Foundation
+      institution: In Prof. Kareem's team at NatHaz Modeling Laboratory, University of Notre Dame (IN, USA)
+      year: 2023
+      title: Physics-Informed Machine Learning Tools for SHM in Civil Engineering
       description:
-        - Machine Learning for Classification of Time-Series
-        - title: Shapelet-Based Tool for Thunderstorms Detection
-          contents:
-            - Accelerating and giving sense to the current framework 
+        -  Developing interpretable machine learning tools for monitoring applications in wind engineering
+        -  Shapelet-based classification and clustering of signals related to anomalies and thunderstorms
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
