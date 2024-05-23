@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
+    gem "json", "2.0.2"
     gem 'jekyll'
     gem 'jekyll-archives'
     gem 'jekyll-diagrams'
