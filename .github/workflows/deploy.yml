@@ -24,6 +24,8 @@ jobs:
     - name: Install deps
       run: |
         npm install -g mermaid.cli
+        gem uninstall ffi
+        gem install ffi --platform=ruby
     - name: Setup deploy options
       id: setup
       run: |
