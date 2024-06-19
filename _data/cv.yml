@@ -4,23 +4,31 @@
     - name: Full Name
       value: Margaux Geuzaine
     - name: Languages
-      value: English Expert, French Native, Danish Beginner
+      value: English - Expert, French - Native, Danish - Beginner
 
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D.
-      institution: University of Liège, Liège, Belgium
+    - title: Ph.D. in Sturcutal and Stochastic Dynamics
+      institution: University of Liège, Belgium
       year: 2022
       title: Multiple Timescale Spectral Analysis of Wave-Loaded Floating Structures
       description:
         - Wave Response Decomposition
-        - Description 2.
-    - title: Master's Degree
-      institution: University of Liège, Liège, Belgium
+        - Financed by a 4-year FRIA Fellowship
+    - title: Master's Degree in Civil Engineering
+      institution: University of Liège, Belgium
       year: 2018
       description:
-        - Magna Cum Lauda with Honors
+        - Graduated Magna Cum Lauda with Honors
+        - Best Master's Thesis Prize of the AILg
+        - 
+    - title: Bachelor's Degree in Civil Engineering
+      institution: University of Liège, Belgium
+      year: 2016
+      description:
+        - Received a F. Pisart Entrance Award
+
 
 - title: Experience
   type: time_table
@@ -48,15 +56,14 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Structural Health Monitoring
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Vibrations of Taut Cables in the Frequency Domain
+    - title: Structural & Stochastic Dynamics
       items:
-        - Description 1.
+        - Response of Floating Structures to Wind and Waves
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Saxophone, Climbing, etc.
