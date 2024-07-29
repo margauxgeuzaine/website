@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to this website, where I get you through my past experiences and my vision for what is next in the field of <strong>Structural Health Monitoring<strong>! 
+Welcome to this website, where I get you through my past experiences and my vision for what is next in the field of <span class="font-weight-bold">Structural Health Monitoring</span>! 
 
 I consider myself to be quite a versatile research engineer, committed to translating complex technical concepts into actionable insights, excited by the opportunity to bridge the gap between academic research and industry concern, and keen to use innovative approaches to address the challenges faced when dealing with practical applications.
 
