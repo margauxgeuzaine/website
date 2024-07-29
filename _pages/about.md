@@ -5,7 +5,7 @@ permalink: /
 subtitle: Ph.D., SHM Specialist at COWI Transportation International in Denmmark
 
 profile:
-  align: justify
+  align: right
   image: prof_pic.png
   image_circular: true # crops the image to make it circular
   box-shadow: none
