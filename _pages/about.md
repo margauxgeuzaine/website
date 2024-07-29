@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D.
+subtitle: Ph.D., SHM Specialist at COWI Transportation International in Denmmark
 
 profile:
   align: right
