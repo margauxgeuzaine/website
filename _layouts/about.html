@@ -17,16 +17,18 @@ layout: default
             {%- if page.profile.image %}
               {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
 
-              {% if page.profile.image_cicular %}
+              {% if page.profile.image_circular %}
                 {%- assign profile_image_class = "img-fluid z-depth-1 rounded-circle" -%}
               {% else %}
                 {%- assign profile_image_class = "img-fluid z-depth-0 rounded" -%}
               {% endif %}
 
-              {% include figure.html 
-              path=profile_image_path 
-              class=profile_image_class
-              alt=page.profile.image -%}
+              <div class="image-container">
+                {% include figure.html 
+                path=profile_image_path 
+                class=profile_image_class
+                alt=page.profile.image -%}
+              </div>
             {% endif -%}
             {%- if page.profile.address %}
             <div class="address">
@@ -37,7 +39,11 @@ layout: default
           {%- endif %}
 
           <div class="clearfix">
-            {{ content }}
+            <div class="content-wrapper">
+              <div class="content">
+                {{ content }}
+              </div>
+            </div>
           </div>
 
           {% if page.news -%}
